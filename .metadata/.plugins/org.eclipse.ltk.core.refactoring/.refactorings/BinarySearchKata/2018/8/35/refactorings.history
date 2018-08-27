@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;BinarySearchKata&apos;&#x0D;&#x0A;- Original project: &apos;BinarySearchKata&apos;&#x0D;&#x0A;- Original element: &apos;searchKata.BinarySearchThread.java&apos;" description="Delete element" element1="/src&lt;searchKata{BinarySearchThread.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1535401550589" subPackages="false" version="1.0"/>
+</session>
